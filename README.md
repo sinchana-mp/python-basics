@@ -10,6 +10,12 @@ EEE Student | Learning Python | Beginner Developer
 - Electricity Bill Calculator
 - Student Result Program
 
+## Mini Project
+# Contact Book
+- Add new contacts
+- View saved contacts
+- Search contacts easily
+
 ## Skills
 - Python (Basics)
 - Problem Solving
