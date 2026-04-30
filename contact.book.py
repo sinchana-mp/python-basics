@@ -1,3 +1,8 @@
+# Contact Book Project
+# Features:
+# - Add contact
+# - View contacts
+# - Search contact
 contacts = []
 
 while True:
